@@ -42,7 +42,7 @@ function ConfigLook()
   syntax enable
 
   "set gfn=Bistream\ Vera\ Sans\ Mono
-  "set guifont=Bistream\ Vera\ Sans\ Mono:h14
+  set guifont=Bistream\ Vera\ Sans\ Mono:h14
 
   set guioptions+=LlRrb
   set guioptions-=LlRrb
